@@ -1,0 +1,7 @@
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\KAdmin\Documents\Visual Studio 2017\Projects\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
